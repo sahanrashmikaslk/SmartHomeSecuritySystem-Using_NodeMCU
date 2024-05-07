@@ -7,14 +7,11 @@
 
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
-const char* ssid = " "; //Add your Wifi SSID
-const char* password = " "; //ADD your Wifi Password
+const char* ssid = "iPhone1234";
+const char* password = "123sahan";
 
-//Add your BOT token (from Bot Father)
-#define BOTtoken " "  
-
-//Add your chat ID (from ID Bot)
-#define CHAT_ID " "
+#define BOTtoken "7051557108:AAHocrT0kjve7kXoDzublyNarECLt7bzVaU"
+#define CHAT_ID "1238463583"
 
 #define Sensor D0
 #define Buzzer D5
