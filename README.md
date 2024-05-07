@@ -26,7 +26,7 @@ The Home Security System is a smart and affordable solution designed to enhance 
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/sahanrashmikaslk/SmartHomeSecuritySystem-Using_NodeMCU.git]
+git clone https://github.com/sahanrashmikaslk/SmartHomeSecuritySystem-Using_NodeMCU.git
 ```
 
 2. Set up the NodeMCU ESP8266 with the required libraries (LiquidCrystal_I2C, ESP8266WiFi, UniversalTelegramBot, ArduinoJson, etc.).
