@@ -4,7 +4,7 @@
 
 ## Overview
 
-The IoT Home Security System is a smart and affordable solution designed to enhance home security through IoT technology. The system utilizes NodeMCU ESP8266, IR sensors, and Telegram app integration to provide real-time monitoring and control of the security system from anywhere with an internet connection.
+The Home Security System is a smart and affordable solution designed to enhance home security through IoT technology. The system utilizes NodeMCU ESP8266, IR sensors, and Telegram app integration to provide real-time monitoring and control of the security system from anywhere with an internet connection.
 
 ## Features
 
