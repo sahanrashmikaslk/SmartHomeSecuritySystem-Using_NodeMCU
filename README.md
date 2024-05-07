@@ -1,10 +1,19 @@
 # Smart Home Security System
 
-![IoT Home Security System](images/system.jpg)
+![IoT Home Security System](Physical_Implementation.jpg)
 
 ## Overview
 
 The Home Security System is a smart and affordable solution designed to enhance home security through IoT technology. The system utilizes NodeMCU ESP8266, IR sensors, and Telegram app integration to provide real-time monitoring and control of the security system from anywhere with an internet connection.
+
+## Block Diagram
+
+![IoT Home Security System](Block_Diagram.png)
+
+## Wiring Diagram
+
+![IoT Home Security System](Schematic_Capture.bmp)
+
 
 ## Features
 
@@ -17,11 +26,11 @@ The Home Security System is a smart and affordable solution designed to enhance 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/iot-home-security-system.git
+git clone https://github.com/sahanrashmikaslk/SmartHomeSecuritySystem-Using_NodeMCU.git
 ```
 
 2. Set up the NodeMCU ESP8266 with the required libraries (LiquidCrystal_I2C, ESP8266WiFi, UniversalTelegramBot, ArduinoJson, etc.).
-3. Customize the Arduino code (main.ino) according to your WiFi credentials and Telegram bot token.
+3. Customize the Arduino code (SecuritySystem.ino) according to your WiFi credentials and Telegram bot token.
 4. Connect the IR sensor and other components as per the circuit diagram provided.
 5. Upload the Arduino code to the NodeMCU ESP8266 board using the Arduino IDE.
 
